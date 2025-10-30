@@ -8,8 +8,8 @@ const Article = () => {
       data-current="true"
       data-promotional="false"
       islast="false"
-      data-id="68c7ec4d0215019d6ccfd0e0"
-      data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+      data-id="68198e540c63d8832f7fd89f"
+      data-slug="/lifestyle/fashion/met-gala-2025-priyanka-chopra-kiara-advani-isha-ambani-and-natasha-poonawalla-lead-the-charge"
       style={{ position: "relative" }}
     >
       <section id="storiesherosec" className="Stories_storiesHeroSec__eOd_9">
@@ -19,22 +19,23 @@ const Article = () => {
               <div className="Stories_breadcumSec__5W47j">
                 <ol className="Stories_breadcrumb__GxI6O">
                   <li className="Stories_breadcrumb-item__0eUTU">
-                    <a href="/features">Features</a>
+                    <a href="/lifestyle">Lifestyle</a>
                   </li>
                   <li className="Stories_breadcrumb-item__0eUTU">
-                    <a href="/features/insight">Insight</a>
+                    <a href="/lifestyle/fashion">Fashion</a>
                   </li>
                 </ol>
               </div>
               <div className="Stories_contentSec__EbmC6">
                 <h1>
-                  Dulquer Salmaan On Pan-Indian Success of 'Lokah': 'We Thought
-                  We Might Lose Money on This Film'
+                  Met Gala 2025: Priyanka Chopra, Kiara Advani, Isha Ambani and
+                  Natasha Poonawalla Lead the Charge
                 </h1>
                 <p>
-                  Actor-producer Dulquer Salmaan says that the team braced for a
-                  loss before 'Lokah: Chapter 1 - Chandra' became a nationwide
-                  hit.{" "}
+                  From heritage-inspired couture to bold maternity dressing,
+                  Indian celebrities made a powerful impact on the Met Gala red
+                  carpet with custom looks by Balmain, Gaurav Gupta, Manish
+                  Malhotra and more.
                 </p>
                 <div className="Stories_author_wrapper__X_Bc3">
                   <div>
@@ -47,7 +48,7 @@ const Article = () => {
                       data-nimg={1}
                       className="Stories_author_image__mA2__"
                       style={{ color: "transparent" }}
-                      srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Fbms-new%2Fwriter%2F-2024-09-22T13%253A03%253A07.306Z-100x100%2520THR%2520favicon.png&w=128&q=75"
+                      src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Fbms-new%2Fwriter%2F-2024-09-22T13%253A03%253A07.306Z-100x100%2520THR%2520favicon.png&w=128&q=75"
                     />
                   </div>
                   <div className="Stories_author_right__4NHrP">
@@ -93,7 +94,7 @@ const Article = () => {
                       </span>
                     </div>
                     <span className="Stories_timeline__WwKrc">
-                      LAST UPDATED: {/* */}SEP 15, 2025, 17:17 IST
+                      LAST UPDATED: {/* */}MAY 07, 2025, 13:58 IST
                     </span>
                     <span
                       className="Stories_timeline__WwKrc"
@@ -115,7 +116,7 @@ const Article = () => {
               <ul className="Stories_followus__pCkrF">
                 <a
                   target="_blank"
-                  href="https://wa.me/?text=https://www.hollywoodreporterindia.com/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+                  href="https://wa.me/?text=https://www.hollywoodreporterindia.com/lifestyle/fashion/met-gala-2025-priyanka-chopra-kiara-advani-isha-ambani-and-natasha-poonawalla-lead-the-charge"
                 >
                   <li className="Stories_items__gSCVK">
                     <span className="Stories_tooltipText__7XsEo">
@@ -137,7 +138,7 @@ const Article = () => {
                 </a>
                 <a
                   target="_blank"
-                  href="https://www.facebook.com/dialog/share?app_id=145634995501895&display=popup&href=https://www.hollywoodreporterindia.com/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film&redirect_uri=https://www.hollywoodreporterindia.com/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+                  href="https://www.facebook.com/dialog/share?app_id=145634995501895&display=popup&href=https://www.hollywoodreporterindia.com/lifestyle/fashion/met-gala-2025-priyanka-chopra-kiara-advani-isha-ambani-and-natasha-poonawalla-lead-the-charge&redirect_uri=https://www.hollywoodreporterindia.com/lifestyle/fashion/met-gala-2025-priyanka-chopra-kiara-advani-isha-ambani-and-natasha-poonawalla-lead-the-charge"
                 >
                   <li className="Stories_items__gSCVK">
                     <span className="Stories_tooltipText__7XsEo">
@@ -159,7 +160,7 @@ const Article = () => {
                 </a>
                 <a
                   target="_blank"
-                  href="https://twitter.com/intent/tweet?text=https://www.hollywoodreporterindia.com/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+                  href="https://twitter.com/intent/tweet?text=https://www.hollywoodreporterindia.com/lifestyle/fashion/met-gala-2025-priyanka-chopra-kiara-advani-isha-ambani-and-natasha-poonawalla-lead-the-charge"
                 >
                   <li className="Stories_items__gSCVK">
                     <span className="Stories_tooltipText__7XsEo">
@@ -201,15 +202,12 @@ const Article = () => {
             <div className="col-md-12">
               <div className="ad-flex-all">
                 <div
-                  id="div-gpt-ad-stories-top-68c7ec4d0215019d6ccfd0e0"
+                  id="div-gpt-ad-stories-top-68198e540c63d8832f7fd89f"
                   data-cy="Ad"
                   className="ad-text"
-                  data-google-query-id="CLO5mb-G3Y8DFUmoZgIdI6kE2w"
+                  data-google-query-id="CKaCgIXSy5ADFYCJrAIdVCgxaA"
                 >
-                  <div
-                    id="google_ads_iframe_/23290324739/THRI-Desktop-Top-970_0__container__"
-                    // style={{ border: "0pt none", width: 970, height: 0 }}
-                  />
+                 
                 </div>
               </div>
             </div>
@@ -219,7 +217,7 @@ const Article = () => {
       <section
         id="storiesherobanner"
         className="Stories_storiesHeroBanner__wvXJR"
-      >
+        >
         <div className="container-fluid">
           <div className="row">
             <div className="col-md-12 p-0">
@@ -227,7 +225,7 @@ const Article = () => {
                 <div className="Stories_heroImgCont__wemPS">
                   <div className="pos-rel-full">
                     <img
-                      alt="Dulquer Salmaan talks about surpassing expectations with 'Lokah'"
+                      alt="Kiara Advani, Priyanka Chopra and Nick Jonas, Isha Ambani and Natasha Poonawalla at the 2025 Met Gala."
                       loading="lazy"
                       decoding="async"
                       data-nimg="fill"
@@ -242,7 +240,7 @@ const Article = () => {
                         color: "transparent",
                       }}
                       sizes="100vw"
-                      srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-15T10%253A54%253A22.589Z-IMG_4145.JPEG&w=1920&q=75"
+                      src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-05-06T04%253A30%253A54.888Z-Untitled%2520design%2520%25281%2529.jpg&w=3840&q=75"
                     />
                   </div>
                 </div>
@@ -255,9 +253,10 @@ const Article = () => {
             <div className="col-md-12 text-start">
               <div className="Stories_mainCaption__CKMoz">
                 <span className="Stories_caption__pLYWo">
-                  Dulquer Salmaan talks about surpassing expectations with
-                  'Lokah'
+                  Kiara Advani, Priyanka Chopra and Nick Jonas, Isha Ambani and
+                  Natasha Poonawalla at the 2025 Met Gala.
                 </span>
+                <span className="Stories_courtesy__IorTZ">Getty Images</span>
               </div>
             </div>
           </div>
@@ -277,52 +276,100 @@ const Article = () => {
                     >
                       <p style={{ textAlign: "left" }} />
                       <p style={{ textAlign: "left" }}>
-                        <span>In an exclusive conversation with </span>
-                        <span style={{ fontStyle: "italic" }}>
-                          The Hollywood Reporter India
-                        </span>
-                        <span>, </span>
-                        <a
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          href="https://www.hollywoodreporterindia.com/tag/dulquer-salmaan"
-                        >
-                          <span>actor-producer Dulquer Salmaan</span>
-                        </a>
-                        <span>
-                          {" "}
-                          opened up about the overwhelming success of{" "}
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          From archival textiles and high-jewellery statements
+                          to bold silhouettes and cultural symbolism, stars like{" "}
                         </span>
                         <a
                           target="_blank"
                           rel="noopener noreferrer"
-                          style={{ fontStyle: "italic" }}
-                          href="https://www.hollywoodreporterindia.com/features/insight/lokah-crosses-200-crore-ranks-4th-among-all-time-malayalam-blockbusters"
+                          style={{ color: "rgb(0, 0, 0)" }}
+                          href="https://www.hollywoodreporterindia.com/tag/priyanka-chopra-jonas"
                         >
-                          <span style={{ fontStyle: "italic" }}>
-                            Lokah: Chapter 1 — Chandra
+                          <span style={{ color: "rgb(0, 0, 0)" }}>
+                            Priyanka Chopra
                           </span>
                         </a>
-                        <span>
-                          , a film that has not only resonated with Malayalam
-                          audiences but has also broken barriers to become a
-                          pan-India cultural phenomenon.
+                        <span style={{ color: "rgb(0, 0, 0)" }}>, </span>
+                        <a
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          style={{ color: "rgb(0, 0, 0)" }}
+                          href="https://www.hollywoodreporterindia.com/tag/kiara-advani"
+                        >
+                          <span style={{ color: "rgb(0, 0, 0)" }}>
+                            Kiara Advani
+                          </span>
+                        </a>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          , Isha Ambani Piramal, and Natasha Poonawalla turned
+                          the red (well, blue) carpet into one of identity and
+                          innovation.
                         </span>
                       </p>
-                      <p style={{ textAlign: "left" }} />
+                      <div style={{ width: "100%", margin: "20px 0" }}>
+                        <div
+                          className="flex-all-embed"
+                          style={{ justifyContent: "center" }}
+                        >
+                          <div
+                            className="rsme-embed rsme-instagram-embed 1bdcc42a-d6fc-453a-8fd8-fce495ea5676"
+                            style={{
+                              overflow: "hidden",
+                              width: "100%",
+                              borderRadius: 3,
+                              position: "relative",
+                            }}
+                          >
+                            <style
+                              className=""
+                              dangerouslySetInnerHTML={{
+                                __html:
+                                  "\n        .rsme-embed .rsme-d-none {\n          display: none;\n        }\n    \n        .rsme-embed .twitter-tweet {\n          margin: 0 !important;\n        }\n    \n        .rsme-embed blockquote {\n          margin: 0 !important;\n          padding: 0 !important;\n        }\n\n        .rsme-embed.rsme-facebook-embed .fb-post iframe {\n          width: 100% !important;\n        }\n\n        .rsme-embed.rsme-facebook-embed .fb-post span {\n          width: 100% !important;\n        }\n      ",
+                              }}
+                            />
+                            <iframe
+                              className="instagram-media instagram-media-rendered"
+                              id="instagram-embed-0"
+                              src="https://www.instagram.com/p/DJS2i1Ttgfa/embed/?cr=1&v=14&wp=701&rd=https%3A%2F%2Fwww.hollywoodreporterindia.com&rp=%2Flifestyle%2Ffashion%2Fmet-gala-2025-priyanka-chopra-kiara-advani-isha-ambani-and-natasha-poonawalla-lead-the-charge#%7B%22ci%22%3A0%2C%22os%22%3A857.4000000059605%2C%22ls%22%3A813.8000000119209%2C%22le%22%3A821.9000000059605%7D"
+                              allowTransparency="true"
+                              allowFullScreen="true"
+                              frameBorder={0}
+                              height={932}
+                              data-instgrm-payload-id="instagram-media-payload-0"
+                              scrolling="no"
+                              style={{
+                                width: "calc(100% - 2px)",
+                                backgroundColor: "white",
+                                borderRadius: 3,
+                                border: "1px solid rgb(219, 219, 219)",
+                                boxShadow: "none",
+                                display: "block",
+                                margin: "0px 0px 12px",
+                                minWidth: 326,
+                                padding: 0,
+                              }}
+                            />
+                          </div>
+                        </div>
+                      </div>
+                      <div className="Stories_mainCaption__CKMoz">
+                        <span className="Stories_caption__pLYWo" />
+                        <span className="Stories_courtesy__IorTZ" />
+                      </div>
                       <p style={{ textAlign: "left" }}>
-                        <span>
-                          Reflecting on the project, Dulquer admitted the team
-                          had modest expectations. “This is our seventh
-                          production, and we've always managed to land safe. But
-                          nothing has been like{" "}
-                        </span>
-                        <span style={{ fontStyle: "italic" }}>Lokah</span>
-                        <span>
-                          ,” he said. “Even as an actor, none of my films have
-                          exploded like this. It’s been accepted across
-                          demographics and has now become a part of pop culture.
-                          That’s what's most exciting.”
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          Chopra attended the event with her husband, Nick
+                          Jonas, and both opted for a retro-inspired look. The
+                          actor stunned in a polka-dotted white Balmain skirt
+                          suit, styled with a dramatic wide-brimmed hat, gloves
+                          and Bvlgari’s show-stopping 241-carat "Magnus Emerald"
+                          pendant, which is also the largest faceted stone the
+                          house has ever set. Jonas, wearing Bianca Saunders,
+                          opted for a sculptural cream blouse with a high neck
+                          and scarf detail, paired with high-waisted trousers
+                          and cinched by a coordinating belt. Tiffany brooches
+                          completed the look.
                         </span>
                       </p>
                       <div
@@ -344,17 +391,17 @@ const Article = () => {
                             <a
                               className="Stories_relatedPostCard__Chg_m"
                               target="_blank"
-                              href="/features/insight/mammootty-is-moothon-dulquer-salmaan-confirms-he-played-the-character-in-lokah"
+                              href="/lifestyle/fashion/met-gala-2025-from-srk-and-diljit-to-kiara-and-pc-how-does-one-get-invited-to-fashions-biggest-night"
                             >
                               <div className="Stories_relatedPostImage__mctc0">
                                 <img
-                                  alt="Mammootty Is Moothon; Dulquer Salmaan Confirms He Played The Character In 'Lokah'"
+                                  alt="Actors Alia Bhatt, Deepika Padukone, Priyanka Chopra and businesswoman Natasha Poonawalla at the Met Gala over the years."
                                   loading="lazy"
                                   decoding="async"
                                   data-nimg="fill"
                                   className="imgcover"
                                   sizes="100vw"
-                                  srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-08T06%253A08%253A55.327Z-Untitled%2520design-174.jpg&w=1920&q=75"
+                                  src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-05-05T07%253A18%253A08.975Z-Lead.jpg&w=3840&q=75"
                                   style={{
                                     position: "absolute",
                                     height: "100%",
@@ -367,61 +414,311 @@ const Article = () => {
                               </div>
                               <div className="w-100 bg-red-100">
                                 <h3 className="Stories_category__PMzs5 mt-0 mb-1">
-                                  Insight
+                                  Fashion
                                 </h3>
                                 <h3 className="Stories_card-title__yoKzB mb-0">
-                                  Mammootty Is Moothon: Dulquer Salmaan Confirms
-                                  He Played The Role In 'Lokah Chapter One:
-                                  Chandra'
+                                  Met Gala 2025: From SRK and Diljit to Kiara
+                                  and PC — How Does One Get Invited to Fashion's
+                                  Biggest Night?
                                 </h3>
                               </div>
                             </a>
                           </div>
                         </div>
                       </div>
-                      <GalleryWidget2/>
-                      <div>
-                        <div className="ad-flex-all">
+      <GalleryWidget2/>
+
+                      <div style={{ width: "100%", margin: "20px 0" }}>
+                        <div
+                          className="flex-all-embed"
+                          style={{ justifyContent: "center" }}
+                        >
                           <div
-                            id="div-gpt-ad-stories-middle-68c7ec4d0215019d6ccfd0e0-4"
-                            data-cy="Ad"
-                            className="ad-text"
-                            data-google-query-id="CMDvnL-G3Y8DFbOrZgId-TUq6w"
-                            style={{ marginBottom: 20 }}
+                            className="rsme-embed rsme-instagram-embed a56ec193-ebb9-4eea-8ffb-b7f1c4a181fb"
+                            style={{
+                              overflow: "hidden",
+                              width: "100%",
+                              borderRadius: 3,
+                              position: "relative",
+                            }}
                           >
-                            <div
-                              id="google_ads_iframe_/23290324739/THRI-Desktop-Middle-300_0__container__"
+                            <style
+                              className=""
+                              dangerouslySetInnerHTML={{
+                                __html:
+                                  "\n        .rsme-embed .rsme-d-none {\n          display: none;\n        }\n    \n        .rsme-embed .twitter-tweet {\n          margin: 0 !important;\n        }\n    \n        .rsme-embed blockquote {\n          margin: 0 !important;\n          padding: 0 !important;\n        }\n\n        .rsme-embed.rsme-facebook-embed .fb-post iframe {\n          width: 100% !important;\n        }\n\n        .rsme-embed.rsme-facebook-embed .fb-post span {\n          width: 100% !important;\n        }\n      ",
+                              }}
+                            />
+                            <iframe
+                              className="instagram-media instagram-media-rendered"
+                              id="instagram-embed-1"
+                              src="https://www.instagram.com/p/DJSl356oCMH/embed/?cr=1&v=14&wp=701&rd=https%3A%2F%2Fwww.hollywoodreporterindia.com&rp=%2Flifestyle%2Ffashion%2Fmet-gala-2025-priyanka-chopra-kiara-advani-isha-ambani-and-natasha-poonawalla-lead-the-charge#%7B%22ci%22%3A1%2C%22os%22%3A861.0999999940395%2C%22ls%22%3A813.8000000119209%2C%22le%22%3A821.9000000059605%7D"
+                              allowTransparency="true"
+                              allowFullScreen="true"
+                              frameBorder={0}
+                              height={932}
+                              data-instgrm-payload-id="instagram-media-payload-1"
+                              scrolling="no"
                               style={{
-                                border: "0pt none",
-                                width: 300,
-                                height: 0,
+                                width: "calc(100% - 2px)",
+                                backgroundColor: "white",
+                                borderRadius: 3,
+                                border: "1px solid rgb(219, 219, 219)",
+                                boxShadow: "none",
+                                display: "block",
+                                margin: "0px 0px 12px",
+                                minWidth: 326,
+                                padding: 0,
                               }}
                             />
                           </div>
                         </div>
                       </div>
+                      <div className="Stories_mainCaption__CKMoz">
+                        <span className="Stories_caption__pLYWo" />
+                        <span className="Stories_courtesy__IorTZ" />
+                      </div>
+                      <div>
+                        <div className="ad-flex-all">
+                          <div
+                            id="div-gpt-ad-stories-middle-68198e540c63d8832f7fd89f-5"
+                            data-cy="Ad"
+                            className="ad-text"
+                            data-google-query-id="CN_ugYXSy5ADFVmgrAIdmKIUUQ"
+                            style={{ marginBottom: 20 }}
+                          >
+                          </div>
+                        </div>
+                      </div>
                       <p style={{ textAlign: "left" }}>
-                        <span>
-                          Dulquer revealed that the initial projections were far
-                          from optimistic. “Honestly, we were bracing ourselves
-                          for a potential loss. We believed in the film, but
-                          weren’t sure how it would perform commercially,” he
-                          shared. “Buyers weren’t lining up, and we had made
-                          peace with the idea that we might take a hit on the
-                          first film of the franchise.”
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          For mom-to-be{" "}
+                        </span>
+                        <a
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          style={{ color: "rgb(0, 0, 0)" }}
+                          href="https://www.hollywoodreporterindia.com/features/insight/publish-kiara-advani-set-to-make-her-met-gala-debut-in-may-this-year"
+                        >
+                          <span style={{ color: "rgb(0, 0, 0)" }}>
+                            Kiara Advani's debut Met Gala
+                          </span>
+                        </a>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          , she wore a sculptural Gaurav Gupta creation that
+                          tastefully showcased her baby bump. The custom gown,
+                          featuring a dramatic breastplate and cascading trail,
+                          was conceptualised in the final week leading up to the
+                          event, as revealed in a behind-the-scenes video shared
+                          by Instagram fashion creator Diet Sabya. Styled by
+                          Anaita Shroff Adajania, Advani's look was a nod to the
+                          dandyism of the African diaspora.
                         </span>
                       </p>
-                      <p style={{ textAlign: "left" }} />
+                      <div style={{ width: "100%", margin: "20px 0" }}>
+                        <div
+                          className="flex-all-embed"
+                          style={{ justifyContent: "center" }}
+                        >
+                          <div
+                            className="rsme-embed rsme-instagram-embed 02ebd521-067a-415f-8963-3541916c1348"
+                            style={{
+                              overflow: "hidden",
+                              width: "100%",
+                              borderRadius: 3,
+                              position: "relative",
+                            }}
+                          >
+                            <style
+                              className=""
+                              dangerouslySetInnerHTML={{
+                                __html:
+                                  "\n        .rsme-embed .rsme-d-none {\n          display: none;\n        }\n    \n        .rsme-embed .twitter-tweet {\n          margin: 0 !important;\n        }\n    \n        .rsme-embed blockquote {\n          margin: 0 !important;\n          padding: 0 !important;\n        }\n\n        .rsme-embed.rsme-facebook-embed .fb-post iframe {\n          width: 100% !important;\n        }\n\n        .rsme-embed.rsme-facebook-embed .fb-post span {\n          width: 100% !important;\n        }\n      ",
+                              }}
+                            />
+                            <iframe
+                              className="instagram-media instagram-media-rendered"
+                              id="instagram-embed-2"
+                              src="https://www.instagram.com/p/DJSfPYks_yX/embed/?cr=1&v=14&wp=701&rd=https%3A%2F%2Fwww.hollywoodreporterindia.com&rp=%2Flifestyle%2Ffashion%2Fmet-gala-2025-priyanka-chopra-kiara-advani-isha-ambani-and-natasha-poonawalla-lead-the-charge#%7B%22ci%22%3A2%2C%22os%22%3A864.9000000059605%2C%22ls%22%3A813.8000000119209%2C%22le%22%3A821.9000000059605%7D"
+                              allowTransparency="true"
+                              allowFullScreen="true"
+                              frameBorder={0}
+                              height={932}
+                              data-instgrm-payload-id="instagram-media-payload-2"
+                              scrolling="no"
+                              style={{
+                                width: "calc(100% - 2px)",
+                                backgroundColor: "white",
+                                borderRadius: 3,
+                                border: "1px solid rgb(219, 219, 219)",
+                                boxShadow: "none",
+                                display: "block",
+                                margin: "0px 0px 12px",
+                                minWidth: 326,
+                                padding: 0,
+                              }}
+                            />
+                          </div>
+                        </div>
+                      </div>
+                      <div className="Stories_mainCaption__CKMoz">
+                        <span className="Stories_caption__pLYWo" />
+                        <span className="Stories_courtesy__IorTZ" />
+                      </div>
                       <p style={{ textAlign: "left" }}>
-                        <span>
-                          But what followed was nothing short of extraordinary.
-                          From day one, Lokah began receiving rave reviews from
-                          all corners of the country. “I was seeing reactions
-                          from across India. It’s a testament to how audiences
-                          today are open to different languages and storytelling
-                          styles. People gave the film a chance on release day
-                          itself—watched it, reviewed it, made reels about it.
-                          It was surreal.”
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          For her fifth appearance at the Met Gala, Isha Ambani
+                          made an unforgettable entrance in a custom black,
+                          white and gold ensemble by designer Anamika Khanna.
+                          The silhouette featured a structured jacket,
+                          embroidered waistcoat and a corset woven with
+                          geometric motifs. Over 20,000 hours went into creating
+                          the ensemble, which shimmered with semi-precious
+                          stones, pearl detailing, and gemstones from the Ambani
+                          family’s private collection. Khanna, making her Met
+                          Gala debut, described the creation as a conversation
+                          between identity and interpretation
+                        </span>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>.</span>
+                      </p>
+                      <div
+                        style={{
+                          display: "flex",
+                          justifyContent: "center",
+                          width: "100%",
+                          margin: "20px 0",
+                        }}
+                      >
+                        <div className="Stories_relatedPostWrapper__sQzlS">
+                          <h2 className="Stories_relatedPostHeading__7h_ax">
+                            You may also like
+                          </h2>
+                          <div
+                            className="Stories_row__bZ032"
+                            style={{ width: "100%" }}
+                          >
+                            <a
+                              className="Stories_relatedPostCard__Chg_m"
+                              target="_blank"
+                              href="/lifestyle/fashion/met-gala-2025-diljit-dosanjhs-debut-was-a-lesson-in-cultural-pride"
+                            >
+                              <div className="Stories_relatedPostImage__mctc0">
+                                <img
+                                  alt="Singer Diljit Dosanjh with designer Prabal Gurung at the 2025 Met Gala."
+                                  loading="lazy"
+                                  decoding="async"
+                                  data-nimg="fill"
+                                  className="imgcover"
+                                  sizes="100vw"
+                                  src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-05-06T03%253A48%253A17.650Z-Untitled%2520design%2520%25281%2529.jpg&w=3840&q=75"
+                                  style={{
+                                    position: "absolute",
+                                    height: "100%",
+                                    width: "100%",
+                                    inset: 0,
+                                    objectFit: "cover",
+                                    color: "transparent",
+                                  }}
+                                />
+                              </div>
+                              <div className="w-100 bg-red-100">
+                                <h3 className="Stories_category__PMzs5 mt-0 mb-1">
+                                  Fashion
+                                </h3>
+                                <h3 className="Stories_card-title__yoKzB mb-0">
+                                  Met Gala 2025: Diljit Dosanjh’s Debut Was a
+                                  Lesson in Cultural Pride
+                                </h3>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div style={{ width: "100%", margin: "20px 0" }}>
+                        <div
+                          className="flex-all-embed"
+                          style={{ justifyContent: "center" }}
+                        >
+                          <div
+                            className="rsme-embed rsme-instagram-embed a81d60f1-7888-4077-84ef-7d5cb0cfa71a"
+                            style={{
+                              overflow: "hidden",
+                              width: "100%",
+                              borderRadius: 3,
+                              position: "relative",
+                            }}
+                          >
+                            <style
+                              className=""
+                              dangerouslySetInnerHTML={{
+                                __html:
+                                  "\n        .rsme-embed .rsme-d-none {\n          display: none;\n        }\n    \n        .rsme-embed .twitter-tweet {\n          margin: 0 !important;\n        }\n    \n        .rsme-embed blockquote {\n          margin: 0 !important;\n          padding: 0 !important;\n        }\n\n        .rsme-embed.rsme-facebook-embed .fb-post iframe {\n          width: 100% !important;\n        }\n\n        .rsme-embed.rsme-facebook-embed .fb-post span {\n          width: 100% !important;\n        }\n      ",
+                              }}
+                            />
+                            <iframe
+                              className="instagram-media instagram-media-rendered"
+                              id="instagram-embed-3"
+                              src="https://www.instagram.com/p/DJSdf4RzSce/embed/?cr=1&v=14&wp=701&rd=https%3A%2F%2Fwww.hollywoodreporterindia.com&rp=%2Flifestyle%2Ffashion%2Fmet-gala-2025-priyanka-chopra-kiara-advani-isha-ambani-and-natasha-poonawalla-lead-the-charge#%7B%22ci%22%3A3%2C%22os%22%3A1850.199999988079%2C%22ls%22%3A813.8000000119209%2C%22le%22%3A821.9000000059605%7D"
+                              allowTransparency="true"
+                              allowFullScreen="true"
+                              frameBorder={0}
+                              height={980}
+                              data-instgrm-payload-id="instagram-media-payload-3"
+                              scrolling="no"
+                              style={{
+                                width: "calc(100% - 2px)",
+                                backgroundColor: "white",
+                                borderRadius: 3,
+                                border: "1px solid rgb(219, 219, 219)",
+                                boxShadow: "none",
+                                display: "block",
+                                margin: "0px 0px 12px",
+                                minWidth: 326,
+                                padding: 0,
+                              }}
+                            />
+                          </div>
+                        </div>
+                      </div>
+                      <div className="Stories_mainCaption__CKMoz">
+                        <span className="Stories_caption__pLYWo" />
+                        <span className="Stories_courtesy__IorTZ" />
+                      </div>
+                      <div>
+                        <div className="ad-flex-all">
+                          <div
+                            id="div-gpt-ad-stories-middle-68198e540c63d8832f7fd89f-10"
+                            data-cy="Ad"
+                            className="ad-text"
+                            data-google-query-id="CJyNg4XSy5ADFQK5rAIdZTkylQ"
+                            style={{ marginBottom: 20 }}
+                          >
+                           
+                          </div>
+                        </div>
+                      </div>
+                      <p style={{ textAlign: "left" }}>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          The ever-fashionable Poonawalla made a powerful
+                          sartorial statement wearing custom Manish Malhotra,
+                          She honoured her Parsi roots while engaging with this
+                          year’s menswear-focused theme through a distinctively
+                          Indian perspective. Her sculpted fishtail skirt —
+                          crafted from two vintage Parsi Gara saris, including
+                          one over a century old — stood out as a testament to
+                          craftsmanship and cultural continuity. Styled once
+                          again by Anaita Shroff Adajania, the ensemble also
+                          featured a corset-cummerbund and a vintage French lace
+                          bralette edged with pearls. A sharply tailored Gara
+                          jacket with exaggerated shoulders and imperial purple
+                          lining added structure, while the final flourish came
+                          in the form of a sculptural lace cravat by Atelier
+                          Biser and a miniature pearl-trimmed Chanel box bag.
+                        </span>
+                      </p>
+                      <p style={{ textAlign: "left" }}>
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          2025 also served as the designer's debut at the gala.
                         </span>
                       </p>
                       <div
@@ -443,17 +740,17 @@ const Article = () => {
                             <a
                               className="Stories_relatedPostCard__Chg_m"
                               target="_blank"
-                              href="/features/insight/lokah-michael-and-charlie-to-get-standalone-films-in-the-malayalam-films-universe"
+                              href="/lifestyle/fashion/met-gala-2025-shah-rukh-khans-sabyasachi-look-steals-the-spotlight"
                             >
                               <div className="Stories_relatedPostImage__mctc0">
                                 <img
-                                  alt=" Tovino Thomas and Dulquer Salmaan "
+                                  alt="Shah Rukh Khan at the 2025 Met Gala."
                                   loading="lazy"
                                   decoding="async"
                                   data-nimg="fill"
                                   className="imgcover"
                                   sizes="100vw"
-                                  srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-15T09%253A47%253A33.289Z-tovino%2520and%2520dulquer.jpg&w=1920&q=75"
+                                  src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-05-06T03%253A23%253A53.168Z-Untitled%2520design%2520%25281%2529.jpg&w=3840&q=75"
                                   style={{
                                     position: "absolute",
                                     height: "100%",
@@ -466,11 +763,11 @@ const Article = () => {
                               </div>
                               <div className="w-100 bg-red-100">
                                 <h3 className="Stories_category__PMzs5 mt-0 mb-1">
-                                  Insight
+                                  Fashion
                                 </h3>
                                 <h3 className="Stories_card-title__yoKzB mb-0">
-                                  'Lokah': Michael and Charlie to Get Standalone
-                                  Films in The Malayalam Film's Universe?
+                                  Met Gala 2025: Shah Rukh Khan’s Sabyasachi
+                                  Look Steals the Spotlight
                                 </h3>
                               </div>
                             </a>
@@ -478,69 +775,13 @@ const Article = () => {
                         </div>
                       </div>
                       <p style={{ textAlign: "left" }}>
-                        <span>
-                          The actor-producer admitted that the magnitude of the
-                          film's success took the entire team by surprise. “We
-                          were all in disbelief. It just blew up. And suddenly
-                          the conversation shifted from ‘will it work?’ to ‘what
-                          do we do about the next one?’,” he laughed. “It’s
-                          exciting, but yeah—no pressure!”
-                        </span>
-                      </p>
-                      <div>
-                        <div className="ad-flex-all">
-                          <div
-                            id="div-gpt-ad-stories-middle-68c7ec4d0215019d6ccfd0e0-9"
-                            data-cy="Ad"
-                            className="ad-text"
-                            data-google-query-id="CJOZnr-G3Y8DFTGkZgIddxc2bw"
-                            style={{ marginBottom: 20 }}
-                          >
-                            <div
-                              id="google_ads_iframe_/23290324739/THRI-Desktop-Middle-300_1__container__"
-                              style={{
-                                border: "0pt none",
-                                width: 300,
-                                height: 0,
-                              }}
-                            />
-                          </div>
-                        </div>
-                      </div>
-                      <p style={{ textAlign: "left" }} />
-                      <p style={{ textAlign: "left" }}>
-                        <span>As </span>
-                        <span style={{ fontStyle: "italic" }}>Lokah </span>
-                        <span>
-                          continues to dominate conversations, Dulquer's journey
-                          as a risk-taking producer and actor cements his place
-                          as one of Indian cinema’s most dynamic forces.
-                        </span>
-                      </p>
-                      <p style={{ textAlign: "left" }} />
-                      <p style={{ textAlign: "left" }}>
-                        <span
-                          style={{ fontWeight: "bold", fontStyle: "italic" }}
-                        >
-                          Watch out for our full interview with the actor,
-                          dropping at 8 PM tonight on{" "}
-                        </span>
-                        <a
-                          target="_blank"
-                          rel="nofollow"
-                          style={{ fontWeight: "bold", fontStyle: "italic" }}
-                          href="https://www.youtube.com/@HollywoodReporterIndia"
-                        >
-                          <span
-                            style={{ fontWeight: "bold", fontStyle: "italic" }}
-                          >
-                            The Hollywood Reporter India's YouTube channel
-                          </span>
-                        </a>
-                        <span
-                          style={{ fontWeight: "bold", fontStyle: "italic" }}
-                        >
-                          .
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          Besides them, entrepreneur Mona Patel, who had stolen
+                          the show at the 2024 Met Gala returned with yet
+                          another striking look in head-to-toe Thom Browne. With
+                          craftsmanship, culture and couture in perfect sync,
+                          India’s presence at the 2025 Met Gala was impactful,
+                          yet innately personal.
                         </span>
                       </p>
                     </div>
@@ -552,11 +793,37 @@ const Article = () => {
                     <div className="Stories_breadcumSec__5W47j">
                       <ol className="Stories_breadcrumb__GxI6O">
                         <li className="Stories_breadcrumb-item__0eUTU">
-                          <a href="/tag/dulquer-salmaan">Dulquer Salmaan</a>
+                          <a href="/tag/fashion-designer">Fashion Designer</a>
                         </li>
                         <li className="Stories_breadcrumb-item__0eUTU">
-                          <a href="/tag/lokah-chapter-1-chandra">
-                            Lokah Chapter 1: Chandra
+                          <a href="/tag/hindi-cinema">hindi cinema</a>
+                        </li>
+                        <li className="Stories_breadcrumb-item__0eUTU">
+                          <a href="/tag/indian-cinema">indian cinema</a>
+                        </li>
+                        <li className="Stories_breadcrumb-item__0eUTU">
+                          <a href="/tag/bollywood-fashion">Bollywood Fashion</a>
+                        </li>
+                        <li className="Stories_breadcrumb-item__0eUTU">
+                          <a href="/tag/priyanka-chopra-jonas">
+                            priyanka chopra jonas
+                          </a>
+                        </li>
+                        <li className="Stories_breadcrumb-item__0eUTU">
+                          <a href="/tag/indian-fashion">indian fashion</a>
+                        </li>
+                        <li className="Stories_breadcrumb-item__0eUTU">
+                          <a href="/tag/kiara-advani">Kiara Advani</a>
+                        </li>
+                        <li className="Stories_breadcrumb-item__0eUTU">
+                          <a href="/tag/met-gala-2025">Met Gala 2025</a>
+                        </li>
+                        <li className="Stories_breadcrumb-item__0eUTU">
+                          <a href="/tag/isha-ambani">Isha Ambani</a>
+                        </li>
+                        <li className="Stories_breadcrumb-item__0eUTU">
+                          <a href="/tag/natasha-poonawalla">
+                            Natasha Poonawalla
                           </a>
                         </li>
                       </ol>
@@ -569,16 +836,13 @@ const Article = () => {
             <div className="col-md-4 ln-cont">
               <div className="ad-flex-all">
                 <div
-                  id="div-gpt-ad-stories-rhs-300x250-68c7ec4d0215019d6ccfd0e0"
+                  id="div-gpt-ad-stories-rhs-300x250-68198e540c63d8832f7fd89f"
                   data-cy="Ad"
                   className="ad-text"
-                  data-google-query-id="CKrwn7-G3Y8DFV2kZgIdqYoEGg"
+                  data-google-query-id="CPCbhIXSy5ADFeyQrAIdupkazQ"
                   style={{ marginBottom: 20 }}
                 >
-                  <div
-                    id="google_ads_iframe_/23290324739/THRI-Desktop-RHS-300_0__container__"
-                    style={{ border: "0pt none", width: 300, height: 0 }}
-                  />
+                 
                 </div>
               </div>
               <div className="row mob-hidden">
@@ -588,7 +852,7 @@ const Article = () => {
                 <div className="col-md-12">
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/what-to-watch-this-week-the-bads-of-bollywood-jolly-llb-3-a-big-bold-beautiful-journey-and-more"
+                    href="/lifestyle/fashion/what-regina-cassandra-siddhartha-shankar-mozez-singh-and-aishwarya-sonar-wear-to-work"
                   >
                     <div className="image h100">
                       <img
@@ -598,7 +862,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-16T09%253A17%253A09.759Z-what%2520to%2520watch%2520%25282%2529.jpg&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-23T11%253A05%253A33.484Z-Lead.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -610,18 +874,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Fashion</span>
+                        <span className="timeline">OCT 24, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        What to Watch This Week: 'The Ba***ds of Bollywood,'
-                        'Jolly LLB 3,' 'A Big Bold Beautiful Journey' and More
+                        On-Set Wardrobes: What Regina Cassandra, Siddhartha
+                        Shankar, Mozez Singh and Aishwarya Sonar Wear To Work
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/we-wrote-omkara-in-eighteen-days-abhishek-chaubey-on-his-journey-with-vishal-bhardwaj"
+                    href="/lifestyle/travel/travel-like-karishma-tanna-how-the-actor-curated-an-unforgettable-vacation-in-croatia"
                   >
                     <div className="image h100">
                       <img
@@ -631,7 +895,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-16T09%253A30%253A55.819Z-IMG_4162.JPEG&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-19T06%253A24%253A31.600Z-Untitled%2520design_20251019_113040_0000.png&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -643,18 +907,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Travel</span>
+                        <span className="timeline">OCT 20, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        Abhishek Chaubey on His Journey With Vishal Bhardwaj: We
-                        Wrote 'Omkara' In Eighteen Days
+                        Travel Like Karishma Tanna: How The Actor Curated an
+                        Unforgettable Vacation in Croatia
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/interviews/sharmila-tagore-interview-on-stardom-today-and-wanting-to-play-a-villainous-character-next"
+                    href="/lifestyle/fashion/vikram-phadnis-is-celebrating-35-yearsand-finally-making-his-hindi-film-debut"
                   >
                     <div className="image h100">
                       <img
@@ -664,7 +928,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Feditor-images%2F2025-09-16T08%253A13%253A18.276Z-Lead.jpg&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-14T08%253A57%253A36.966Z-1.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -676,19 +940,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Interviews</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Fashion</span>
+                        <span className="timeline">OCT 14, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        Sharmila Tagore on Stardom Today and Wanting to Play a
-                        'Villainous' Character Next: 'Villains, Too, Sometimes
-                        Have Much To Say...'
+                        Interview | Vikram Phadnis On Celebrating 35 Years and
+                        Making His Hindi Film Debut
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/delhi-high-court-to-rule-on-karan-johars-personality-rights-plea-on-september-17"
+                    href="/lifestyle/travel/the-bicester-collection-europes-villages-of-style-flavor-and-discovery"
                   >
                     <div className="image h100">
                       <img
@@ -698,7 +961,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Fbms-new%2Farticle%2F-2024-09-21T11%253A15%253A29.957Z-Lead1-KJ.jpg&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-10T09%253A30%253A37.505Z-Bicester.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -709,19 +972,25 @@ const Article = () => {
                       />
                     </div>
                     <div className="content">
+                      <div
+                        className="sponsored-tag"
+                        style={{ lineHeight: 1, fontWeight: 700 }}
+                      >
+                        Sponsored
+                      </div>
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Travel</span>
+                        <span className="timeline">OCT 10, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        Delhi High Court to Rule on Karan Johar’s Personality
-                        Rights Plea on September 17
+                        The Bicester Collection: Europe’s Villages of Style,
+                        Flavor, and Discovery
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/ustaad-bhagat-singh-the-pawan-kalyan-movie-completes-filming-sreeleela"
+                    href="/lifestyle/fashion/gurfateh-pirzada-on-neels-style-from-call-me-bae-and-why-jacob-elordi-inspires-him"
                   >
                     <div className="image h100">
                       <img
@@ -731,7 +1000,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-16T06%253A43%253A53.306Z-Untitled%2520design-185.jpg&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-09T05%253A50%253A49.207Z-Lead.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -743,18 +1012,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Fashion</span>
+                        <span className="timeline">OCT 10, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        'Ustaad Bhagat Singh': The Pawan Kalyan Movie Wraps Up
-                        Filming
+                        Gurfateh Pirzada on Neel's Style From 'Call Me Bae' And
+                        Why Jacob Elordi Inspires Him
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/interviews/bobby-deol-on-the-bads-of-bollywood-and-why-aryan-khan-is-a-good-actor-he-looks-like-his-father-but-hes-different"
+                    href="/lifestyle/fashion/from-deepika-padukone-to-angela-bassett-heres-why-jj-valaya-has-been-couturier-to-the-stars-since-1992"
                   >
                     <div className="image h100">
                       <img
@@ -764,7 +1033,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-16T03%253A35%253A17.756Z-Untitled%2520design_20250916_090438_0000.png&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-06T07%253A45%253A51.916Z-Lead.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -776,19 +1045,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Interviews</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Fashion</span>
+                        <span className="timeline">OCT 6, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        Bobby Deol on 'The Ba***ds of Bollywood' and Why Aryan
-                        Khan is a Good Actor: 'He Looks Like His Father, But
-                        He's Different'
+                        From Deepika Padukone to Angela Bassett, Here's Why J.J.
+                        Valaya has Been Couturier to the Stars Since 1992
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/lokah-director-dominic-arun-on-franchises-future-we-know-how-this-is-going-to-end"
+                    href="/lifestyle/food/from-ananya-panday-to-suhana-khan-everyones-talking-about-gaijin-where-tokyo-meets-mumbai"
                   >
                     <div className="image h100">
                       <img
@@ -798,7 +1066,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-16T05%253A53%253A11.244Z-IMG_4155.JPEG&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-02T06%253A42%253A18.807Z-Untitled%2520design%2520%25284%2529.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -810,18 +1078,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Food</span>
+                        <span className="timeline">OCT 2, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        'Lokah' Director Dominic Arun on Franchise's Future: 'We
-                        Know How This Is Going to End'
+                        Everyone’s Talking About Gaijin, Where Tokyo Meets
+                        Mumbai
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/vimukt-in-search-of-the-sky-wins-netpac-award-at-tiff-2025"
+                    href="/lifestyle/interiors/shah-rukh-khan-to-ranveer-singh-everything-to-know-about-actors-vanity-vans-in-bollywood"
                   >
                     <div className="image h100">
                       <img
@@ -831,7 +1099,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-12T11%253A32%253A37.678Z-IMG_4087.JPEG&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-29T10%253A02%253A34.200Z-New_Lead2.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -843,18 +1111,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Interiors</span>
+                        <span className="timeline">SEP 29, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        Vimukt (In Search of the Sky) Wins NETPAC Award at TIFF
-                        2025{" "}
+                        Shah Rukh Khan to Ranveer Singh: Everything to Know
+                        About Actors' Vanity Vans in Bollywood
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/lokah-star-kalyani-priyadarshan-shares-her-father-priyardarshans-reaction-dont-let-success-get-to-your-head"
+                    href="/lifestyle/travel/inside-dhvani-bhanushalis-dreamy-italy-trip-rome-amalfi-milan-and-more"
                   >
                     <div className="image h100">
                       <img
@@ -864,7 +1132,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-15T12%253A06%253A12.104Z-IMG_4149.JPEG&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Feditor-images%2F2025-09-23T07%253A09%253A30.710Z-Lead.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -876,19 +1144,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 15, 2025</span>
+                        <span className="category">Travel</span>
+                        <span className="timeline">SEP 29, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        'Lokah' Star Kalyani Priyadarshan on Her Father’s
-                        Reaction To Film: 'He messaged Me — Don’t Let Success
-                        Get To Your Head'
+                        Inside Dhvani Bhanushali’s Dreamy Italy Trip: Rome,
+                        Amalfi, Milan and More
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/lokah-michael-and-charlie-to-get-standalone-films-in-the-malayalam-films-universe"
+                    href="/lifestyle/fashion/alia-bhatt-revisits-90s-gucci-by-tom-ford-at-the-bads-of-bollywood-premiere"
                   >
                     <div className="image h100">
                       <img
@@ -898,7 +1165,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-15T09%253A47%253A33.289Z-tovino%2520and%2520dulquer.jpg&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-18T09%253A22%253A33.234Z-WhatsApp%2520Image%25202025-09-18%2520at%25202.52.17%2520PM.jpeg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -910,12 +1177,12 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 15, 2025</span>
+                        <span className="category">Fashion</span>
+                        <span className="timeline">SEP 18, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        'Lokah': Michael and Charlie to Get Standalone Films in
-                        The Malayalam Film's Universe?
+                        Alia Bhatt Revisits ’90s Gucci by Tom Ford at 'The
+                        Ba***ds of Bollywood' Premiere
                       </h3>
                     </div>
                   </a>
@@ -923,16 +1190,13 @@ const Article = () => {
               </div>
               <div className="ad-flex-all">
                 <div
-                  id="div-gpt-ad-stories-rhs-300x600-68c7ec4d0215019d6ccfd0e0"
+                  id="div-gpt-ad-stories-rhs-300x600-68198e540c63d8832f7fd89f"
                   data-cy="Ad"
                   className="ad-text"
-                  data-google-query-id="CJi3ob-G3Y8DFUijZgIdExUS7Q"
+                  data-google-query-id="CIOghIXSy5ADFXicrAIdMBcUBw"
                   style={{ marginBottom: 20 }}
                 >
-                  <div
-                    id="google_ads_iframe_/23290324739/THRI-Desktop-RHS-300_1__container__"
-                    style={{ border: "0pt none", width: 300, height: 0 }}
-                  />
+                
                 </div>
               </div>
             </div>
@@ -941,15 +1205,12 @@ const Article = () => {
       </section>
       <div className="ad-flex-all">
         <div
-          id="div-gpt-ad-stories-bottom-68c7ec4d0215019d6ccfd0e0"
+          id="div-gpt-ad-stories-bottom-68198e540c63d8832f7fd89f"
           data-cy="Ad"
           className="ad-text"
-          data-google-query-id="CProo7-G3Y8DFYSpZgIdOB4Tfg"
+          data-google-query-id="CJ7BhIXSy5ADFVWKrAIdTPAxUw"
         >
-          <div
-            id="google_ads_iframe_/23290324739/THRI-Desktop-Bottom-300_0__container__"
-            style={{ border: "0pt none", width: 300, height: 0 }}
-          />
+         
         </div>
       </div>
       <div className="Stories_nextStoryContainer__Dr6xj container">
@@ -957,8 +1218,8 @@ const Article = () => {
         <div className="Stories_nextStoryLine__l7CRg" />
       </div>
       <div
-        data-id="68c7ec4d0215019d6ccfd0e0"
-        data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+        data-id="68198e540c63d8832f7fd89f"
+        data-slug="/lifestyle/fashion/met-gala-2025-priyanka-chopra-kiara-advani-isha-ambani-and-natasha-poonawalla-lead-the-charge"
         data-position="top"
         data-marker="true"
         islast="false"
@@ -969,12 +1230,12 @@ const Article = () => {
           height: 10,
           top: "10%",
           pointerEvents: "none",
-          zIndex: -1,
+          zIndex: -9,
         }}
       />
       <div
-        data-id="68c7ec4d0215019d6ccfd0e0"
-        data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+        data-id="68198e540c63d8832f7fd89f"
+        data-slug="/lifestyle/fashion/met-gala-2025-priyanka-chopra-kiara-advani-isha-ambani-and-natasha-poonawalla-lead-the-charge"
         data-position="upperMiddle"
         data-marker="true"
         islast="false"
@@ -985,12 +1246,12 @@ const Article = () => {
           height: 10,
           top: "30%",
           pointerEvents: "none",
-          zIndex: -1,
+          zIndex: -9,
         }}
       />
       <div
-        data-id="68c7ec4d0215019d6ccfd0e0"
-        data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+        data-id="68198e540c63d8832f7fd89f"
+        data-slug="/lifestyle/fashion/met-gala-2025-priyanka-chopra-kiara-advani-isha-ambani-and-natasha-poonawalla-lead-the-charge"
         data-position="middle"
         data-marker="true"
         islast="false"
@@ -1001,12 +1262,12 @@ const Article = () => {
           height: 10,
           top: "50%",
           pointerEvents: "none",
-          zIndex: -1,
+          zIndex: -9,
         }}
       />
       <div
-        data-id="68c7ec4d0215019d6ccfd0e0"
-        data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+        data-id="68198e540c63d8832f7fd89f"
+        data-slug="/lifestyle/fashion/met-gala-2025-priyanka-chopra-kiara-advani-isha-ambani-and-natasha-poonawalla-lead-the-charge"
         data-position="lowerMiddle"
         data-marker="true"
         islast="false"
@@ -1017,12 +1278,12 @@ const Article = () => {
           height: 10,
           top: "70%",
           pointerEvents: "none",
-          zIndex: -1,
+          zIndex: -9,
         }}
       />
       <div
-        data-id="68c7ec4d0215019d6ccfd0e0"
-        data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+        data-id="68198e540c63d8832f7fd89f"
+        data-slug="/lifestyle/fashion/met-gala-2025-priyanka-chopra-kiara-advani-isha-ambani-and-natasha-poonawalla-lead-the-charge"
         data-position="bottom"
         data-marker="true"
         islast="false"
@@ -1033,7 +1294,7 @@ const Article = () => {
           height: 10,
           top: "90%",
           pointerEvents: "none",
-          zIndex: -1,
+          zIndex: -9,
         }}
       />
     </div>
